@@ -5,3 +5,9 @@
 ##Git
 
 *uni
+
+
+*ikura
+*kani
+fafa
+fasffa
